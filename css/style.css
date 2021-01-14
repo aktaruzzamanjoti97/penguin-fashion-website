@@ -9,6 +9,8 @@ body{
     border-radius: 10px;
     padding: 2%;
 }
+
+
 .penguin-footer{
     border: 0;
     background-color: white;
@@ -27,19 +29,19 @@ h1{
     font-size: 70px;
 }
 #female-jacket2{
-    height: 450px;
+    height: 460px;
     width: 110%;
     
 }
 #female-jacket1{
-    height: 450px;
+    height: 460px;
     width: 90%;
 }
 #female-jacket3{
-    height: 450px;
+    height: 460px;
 }
 .male-jacket{
-    height: 450px;
+    height: 430px;
 }
 .price-color{
     color: goldenrod;
@@ -48,24 +50,27 @@ h1{
     background-color: black;
     padding: 3%;
     border-radius: 15px;
-    color: lightgrey;
+    color: #c6c6c6;
 }
 #get-in-touch{
-    color: goldenrod;
+    color: #be9e07;
 }
 .font-awsome{
-    color: goldenrod;
+    color:  #be9e07;
 }
 .submit-button{
     border: 0;
-    background-color: goldenrod;
+    background-color:  #be9e07;
     color: black;
     border-radius: 20px;
 }
 input:hover{
-    background-color: lightsalmon;
+    background-color: skyblue;
     font-size: 20px;
 }
 textarea:hover{
-    background-color: lightsalmon;
+    background-color: lightskyblue;
+}
+.submit-button:hover{
+    background-color: yellowgreen;
 }
