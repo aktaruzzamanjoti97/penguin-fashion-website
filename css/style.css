@@ -28,17 +28,24 @@ h1{
     font-family: 'Bebas Neue', cursive;
     font-size: 70px;
 }
+.penguin-card{
+    border: 0;
+}
 #female-jacket2{
-    height: 460px;
-    width: 110%;
+    height: 430px;
+    width: 120%;
+    padding-right: 30px;
+    padding-left: -50px;
+    
     
 }
 #female-jacket1{
-    height: 460px;
-    width: 90%;
+    height: 430px;
+    margin-left: 10px;
+   
 }
 #female-jacket3{
-    height: 460px;
+    height: 430px;
 }
 .male-jacket{
     height: 430px;
