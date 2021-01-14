@@ -1,0 +1,71 @@
+body{
+   
+    background-color: #fffbf0;
+    
+}
+.button-customize{
+    background-color: palevioletred;
+    color: white;
+    border-radius: 10px;
+    padding: 2%;
+}
+.penguin-footer{
+    border: 0;
+    background-color: white;
+}
+.almost-orrange{
+    color: #fabe4c;
+}
+.almost-violet{
+    color: #363958;
+}
+h1{
+   font-size: 50px;
+}
+.font-h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+}
+#female-jacket2{
+    height: 450px;
+    width: 110%;
+    
+}
+#female-jacket1{
+    height: 450px;
+    width: 90%;
+}
+#female-jacket3{
+    height: 450px;
+}
+.male-jacket{
+    height: 450px;
+}
+.price-color{
+    color: goldenrod;
+}
+.extra-part{
+    background-color: black;
+    padding: 3%;
+    border-radius: 15px;
+    color: lightgrey;
+}
+#get-in-touch{
+    color: goldenrod;
+}
+.font-awsome{
+    color: goldenrod;
+}
+.submit-button{
+    border: 0;
+    background-color: goldenrod;
+    color: black;
+    border-radius: 20px;
+}
+input:hover{
+    background-color: lightsalmon;
+    font-size: 20px;
+}
+textarea:hover{
+    background-color: lightsalmon;
+}
