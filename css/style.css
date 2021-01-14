@@ -30,6 +30,7 @@ h1{
 }
 .penguin-card{
     border: 0;
+
 }
 #female-jacket2{
     height: 430px;
@@ -52,6 +53,9 @@ h1{
 }
 .price-color{
     color: goldenrod;
+}
+.sercice-area{
+    border-radius: 10px;
 }
 .extra-part{
     background-color: black;
